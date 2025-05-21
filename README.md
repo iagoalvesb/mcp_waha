@@ -34,5 +34,8 @@ Então, substitua o arquivo "weather.py" pelo presente neste repositório
 Rode o MCP por meio de ```python weather.py```
 
 ### 3) Resultados:
+Temos duas ferramentas: 
+send_message: Envia uma mensagem para uma pessoa com base no número dela (necessita do código internacional).
+send_message_by_name: Envia mensagem para um uma pessoa com nome cadastrado.
 Aqui está o resultado final da aplicação
 ![image](https://github.com/user-attachments/assets/453bafe2-2492-47f8-baf4-936032f02a45)
