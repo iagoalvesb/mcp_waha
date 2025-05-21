@@ -4,7 +4,9 @@ Implemataçãod do protocolo MCP com Whatsapp utilizando Waha. PS: Sistema opera
 
 ### Links de suporte:
 https://modelcontextprotocol.io/quickstart/server
+
 https://www.youtube.com/watch?v=RFerMyAUPRg
+
 https://waha.devlike.pro/docs/overview/quick-start/
 
 ### 1) Instalações
